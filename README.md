@@ -1,6 +1,6 @@
-# sok-market-bot
+# PHP ŞOK Market-bot
 
-PHP ŞOK Market-bot
+
 ŞOK Market zincir marketlerinin online ortamdaki ürünlerini JSON çıktısı alarak kullanabilirsiniz.
 
 PHP' nin yanıt vermesi uzun süreceği için sunucu tarafında cron işi olarak çalıştırabilir veya sayfaları parça parça çekebilirsiniz.
