@@ -11,7 +11,7 @@
   {
   	$tablo=[];
   	$ch = curl_init();
-  	$hc = userAgent();
+  	$hc = randomUserAgent();
   	curl_setopt($ch, CURLOPT_REFERER, 'http://www.google.com');
   	curl_setopt($ch, CURLOPT_URL, $site.$url);
   	curl_setopt($ch, CURLOPT_USERAGENT, $hc);
